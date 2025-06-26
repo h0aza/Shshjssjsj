@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,  // هذا السطر هو الذي يحل المشكلة
   "buildCommand": "npm run build",
   "outputDirectory": "dist/public",
   "functions": {
